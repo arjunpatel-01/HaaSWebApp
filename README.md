@@ -6,15 +6,15 @@ This app is deployed on Heroku due to course policy. However, the free license t
 
 If you wish to view the website, please refer to the following instructions: <br/>
 *Note: python must be installed and knowledge of intalling node modules is required*
-1. Open termimal and nevigate to a desired directory
+1. Open termimal and navigate to a desired directory
 2. Clone the repository by entering the command: git clone https://github.com/arjunpatel-01/HaaSWebApp.git
-3. Navigate into the HaasWebApp directory (cd HaasWebApp)
+3. Navigate into the HaaSWebApp directory (cd HaaSWebApp)
 4. Navigate into the WorkingWOHeroku directory (cd WorkingWOHeroku)
 5. Navigate into the software-design-project directory (cd software-design-project)
 6. Enter the command: python app.py
 7. Open a new terminal and navigate to the same software-design-project directory (steps 1, 3, 4, and 5)
 8. Enter the command: npm start
-9. View the local host page that has opened.
+9. View the localhost page that has opened.
 
 ## Tools:
 * Python for backend
