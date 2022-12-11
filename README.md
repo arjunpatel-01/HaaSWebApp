@@ -16,7 +16,7 @@ If you wish to view the website, please refer to the following instructions: <br
 8. Enter the command: npm start
 9. View the localhost page that has opened.
 
-## Tools:
+## Tools
 * Python for backend
 * Flask for API framework
 * PyTest for testing
