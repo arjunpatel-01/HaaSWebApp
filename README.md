@@ -1,4 +1,4 @@
-# HaaS Web App
+# Hardware Management Web App
 This class-project application is a service that controls check-in and check-out actions for hardware sets. Users that wish to contribute to a certain project can join/create the project and utilize its allocated hardware sets.
 
 ## User Guide
