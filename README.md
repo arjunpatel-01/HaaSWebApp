@@ -5,7 +5,7 @@ This class-project application is a service that controls check-in and check-out
 This app is deployed on Heroku due to course poilicy. However, the free license to deploy on Heroku expired in November 2022. The url will bot direct you to the website anymore.
 
 If you wish to view the website, please refer to the following instructions: <br/>
-*Note: python must be installed and knowledge on intalling node modules in required*
+*Note: python must be installed and knowledge of intalling node modules is required*
 1. Open termimal and nevigate to a desired directory
 2. Clone the repository by entering the command: git clone https://github.com/arjunpatel-01/HaasWebApp.git
 3. Navigate into the HaasWebApp directory (cd HaasWebApp)
