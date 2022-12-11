@@ -2,7 +2,7 @@
 This class-project application is a service that controls check-in and check-out actions for hardware sets. Users that wish to contribute to a certain project can join/create the project and utilize its allocated hardware sets.
 
 ## User Guide
-This app is deployed on Heroku due to course policy. However, the free license to deploy on Heroku expired in November 2022. The url will bot direct you to the website anymore.
+This app is deployed on Heroku due to course policy. However, the free license to deploy on Heroku expired in November 2022. The url will not direct you to the website anymore.
 
 If you wish to view the website, please refer to the following instructions: <br/>
 *Note: python must be installed and knowledge of intalling node modules is required*
